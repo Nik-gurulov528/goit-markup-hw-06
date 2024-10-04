@@ -1010,7 +1010,7 @@ img {
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1158px) {
   .container {
     max-width: 1158px;
   }
@@ -1116,7 +1116,7 @@ img {
   }
 }
 
-@media screen and (min-width: 1200px) and (min-resolution: 192dpi) {
+@media screen and (min-width: 1158px) and (min-resolution: 192dpi) {
   .hero {
     background-image: linear-gradient(
         to bottom,
